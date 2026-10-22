@@ -1,0 +1,23 @@
+[
+  {
+    "id": "user_reshma",
+    "email": "reshmathakre278@gmail.com",
+    "name": "Reshma Thakre",
+    "passwordHash": "ee1745293b7dd175ed3fe21d2c1b6922a86e9db1d1b32de3f0de3a09018fbdca",
+    "createdAt": "2026-10-22T06:38:33.754Z"
+  },
+  {
+    "id": "user_demo",
+    "email": "demo@documind.ai",
+    "name": "Demo User",
+    "passwordHash": "ee1745293b7dd175ed3fe21d2c1b6922a86e9db1d1b32de3f0de3a09018fbdca",
+    "createdAt": "2026-10-22T06:38:33.754Z"
+  },
+  {
+    "id": "user_1792651137943_ydbq0",
+    "email": "alex.chen@company.org",
+    "name": "Alex Chen",
+    "passwordHash": "b4143bcadac02a2c46e85052d74b86584e6417558a0f89b38ba6095e990973cd",
+    "createdAt": "2026-10-22T06:38:57.943Z"
+  }
+]

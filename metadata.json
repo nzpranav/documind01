@@ -1,0 +1,6 @@
+{
+  "name": "DocuMind AI",
+  "description": "AI-Powered Document Intelligence Assistant using RAG and Gemini AI to analyze documents with traceable citations and evidence verification.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
